@@ -21,6 +21,8 @@ FROM DOCKER HUB... automate building on master git changes.
 * BUILD RULES +
 * Save and Build
 
+see Builds for progress (can take minutes)
+
 Dockerfile
 ```
 FROM node:14
