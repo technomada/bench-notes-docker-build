@@ -1,7 +1,10 @@
 # bench-notes-docker-build
 Bench notes for using docker build / docker hub.
 
+
+
 ```
+$ cd ~/dev/basic-slides
 $ sudo docker build -t technomada/basic-slides .
 $ sudo docker images
 $ sudo docker image rm technomada/basic-slides
