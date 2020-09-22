@@ -16,6 +16,11 @@ $ sudo docker push technomada/basic-slides
 
 > use that git repo on docker hub.
 
+FROM DOCKER HUB... automate building on master git changes.
+* select repo > builds > configure automated builds
+* BUILD RULES +
+* Save and Build
+
 Dockerfile
 ```
 FROM node:14
