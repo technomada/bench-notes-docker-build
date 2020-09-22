@@ -29,3 +29,9 @@ EXPOSE 3000
 
 CMD ["node","server.js"]
 ```
+
+.dockerignore
+```
+node_modules
+npm-debug.log
+```
